@@ -1,6 +1,8 @@
 view: batting {
   sql_table_name: public.batting ;;
 
+  #hello world!
+
   dimension: ab {
     type: number
     sql: ${TABLE}.ab ;;
