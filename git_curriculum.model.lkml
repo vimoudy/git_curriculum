@@ -249,5 +249,3 @@ explore: team_half {
     relationship: many_to_one
   }
 }
-
-explore: test_paid {}
